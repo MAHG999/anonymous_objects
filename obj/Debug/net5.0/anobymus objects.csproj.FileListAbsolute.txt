@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\anobymus objects\bin\Debug\net5.0\anobymus objects.exe
+C:\Users\marco\source\repos\anobymus objects\bin\Debug\net5.0\anobymus objects.deps.json
+C:\Users\marco\source\repos\anobymus objects\bin\Debug\net5.0\anobymus objects.runtimeconfig.json
+C:\Users\marco\source\repos\anobymus objects\bin\Debug\net5.0\anobymus objects.runtimeconfig.dev.json
+C:\Users\marco\source\repos\anobymus objects\bin\Debug\net5.0\anobymus objects.dll
+C:\Users\marco\source\repos\anobymus objects\bin\Debug\net5.0\ref\anobymus objects.dll
+C:\Users\marco\source\repos\anobymus objects\bin\Debug\net5.0\anobymus objects.pdb
+C:\Users\marco\source\repos\anobymus objects\obj\Debug\net5.0\anobymus objects.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\anobymus objects\obj\Debug\net5.0\anobymus objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\anobymus objects\obj\Debug\net5.0\anobymus objects.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\anobymus objects\obj\Debug\net5.0\anobymus objects.AssemblyInfo.cs
+C:\Users\marco\source\repos\anobymus objects\obj\Debug\net5.0\anobymus objects.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\anobymus objects\obj\Debug\net5.0\anobymus objects.dll
+C:\Users\marco\source\repos\anobymus objects\obj\Debug\net5.0\ref\anobymus objects.dll
+C:\Users\marco\source\repos\anobymus objects\obj\Debug\net5.0\anobymus objects.pdb
+C:\Users\marco\source\repos\anobymus objects\obj\Debug\net5.0\anobymus objects.genruntimeconfig.cache
